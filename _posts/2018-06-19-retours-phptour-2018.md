@@ -222,7 +222,7 @@ Le sujet a attiré ma curiosité. Il faut dire qu'un contrat de travail est écr
 Le sujet est vaste et Hélène nous explique les différentes contraintes que doit respecter un contrat. Elle fait un gros effort de vulgarisation des termes employés dans un langage qui nous parle à tous. Elle revient sur les syndicats, la durée du travail, la rémunération et les déplacements professionnels.
 
 *Ce que j'en ai pensé :*  
-La conférence était intéressante notamment parce qu'elle m'a permis de me rendre compte à quel point personne n'a jamais pris le temps de m'expliquer ce qui y a été dit.
+La conférence était intéressante notamment parce qu'elle m'a permis de me rendre compte à quel point personne n'a jamais pris le temps de m'expliquer ce qu'il y a été dit.
 
 ## Merci de laisser ce code dans l'état dans lequel vous aimeriez le trouver
 *Conférence animée par : [Cédric Spalvieri](https://twitter.com/le_skwi)*
