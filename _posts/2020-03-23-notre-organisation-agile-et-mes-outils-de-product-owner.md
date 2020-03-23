@@ -2,7 +2,7 @@
 layout: post
 title: Notre organisation Agile et mes outils de Product Owner
 author: jmartel
-date: 2020-03-23 13:00:00+01:00
+date: 2020-03-23 12:00:00+01:00
 excerpt: Notre organisation Agile et mes outils de Product Owner
 ---
 
