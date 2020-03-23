@@ -6,7 +6,7 @@ date: 2020-03-23 12:00:00+01:00
 excerpt: Notre organisation Agile et mes outils de Product Owner
 ---
 
-Cela va bientôt faire un an que je suis Product Owner (PO) au sein de Decitre interactive. Comme le nom de mon métier l’indique, notre organisation se base sur la méthodologie agile, et plus précisément Scrum mais en version adaptée.
+Cela va bientôt faire un an que je suis Product Owner (PO) au sein de Decitre Interactive. Comme le nom de mon métier l’indique, notre organisation se base sur la méthodologie agile, et plus précisément Scrum mais en version adaptée.
 
 Cela faisait six ans que le CTO avait mis en place cette méthodologie au sein de l’équipe Web et que des prédécesseurs ont tenté de l’élargir à l’équipe ERP. Mettre en place une telle méthodologie au sein d’une entreprise historique et de commerçant de livre relève du tour de force.
 
