@@ -8,7 +8,7 @@ excerpt: Retour sur le fonctionnement des astreintes au sein de Decitre Interact
 
 Chez Decitre Interactive, nous devons gérer plusieurs sites. Que cela soit des sites d'ecommerce (en notre propre nom ou en marque blanche, pour des professionnels ou des particuliers), ou des outils en SaaS que nous fournissons à des bibliothèques et des librairies.
 
-Ces sites d’ecommerce sont notamment critiques. En journée nous sommes disponibles pour intervenir en cas de problème. Mais en soirée ou le week-end s’il y a un bug ou que le site est inaccessible, nous pouvons perdre des ventes ou même faire baisser notre image de marque.
+Ces sites d’ecommerce sont notamment critiques. En journée nous sommes disponibles pour intervenir en cas de problème. Mais en soirée ou le week-end s’il y a un bug ou que le site est inaccessible, nous pouvons perdre des ventes, voire faire baisser notre image de marque.
 
 Pour ces raisons, nous nous devons d’intervenir le plus rapidement possible même en dehors de toute heure travaillée si un problème urgent arrive sur les plateformes que nous gérons. Nos services doivent être pleinement accessibles en permanence.
 
