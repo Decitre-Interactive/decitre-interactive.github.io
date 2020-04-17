@@ -6,7 +6,7 @@ date: 2020-04-23 10:00:00+01:00
 excerpt: Retour sur le fonctionnement des astreintes au sein de Decitre Interactive
 ---
 
-Chez Decitre Interactive, nous devons gérer plusieurs sites. Que cela soit des sites  d'ecommerce (en notre propre nom ou en marque blanche, pour des professionnels ou des particuliers), ainsi que des outils en SaaS que nous fournissons à des bibliothèques et des librairies.
+Chez Decitre Interactive, nous devons gérer plusieurs sites. Que cela soit des sites d'ecommerce (en notre propre nom ou en marque blanche, pour des professionnels ou des particuliers), ou des outils en SaaS que nous fournissons à des bibliothèques et des librairies.
 
 Ces sites d’ecommerce sont notamment critiques. En journée nous sommes disponibles pour intervenir en cas de problème. Mais en soirée ou le week-end s’il y a un bug ou que le site est inaccessible, nous pouvons perdre des ventes ou même faire baisser notre image de marque.
 
@@ -98,7 +98,7 @@ Et voici ci-dessous un exemple de calendrier avec toutes les astreintes. Celui-c
 
 Toutes nos applications ne sont pas hébergées de la même façon. Parfois certains de nos serveurs sont infogérés, parfois nous maintenons nous même complètement les serveurs. Dans tous les cas l’alerting, en cas de problème, pour l’astreinte reste le même.
 
-Le Spreadsheet et le calendrier nous ont permis donc de nous assurer qu’une personne sera d’astreinte. Mais comment la personne est-elle prévenue en cas de problème ?
+Le Spreadsheet et le calendrier nous ont donc permis de nous assurer qu’une personne sera d’astreinte. Mais comment la personne est-elle prévenue en cas de problème ?
 
 Nous avons plusieurs sources pour nous remonter ces problèmes : 
 * des sondes Pingdom
