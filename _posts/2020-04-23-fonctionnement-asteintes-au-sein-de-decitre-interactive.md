@@ -138,7 +138,7 @@ Pourquoi utiliser un second téléphone et ne pas envoyer les notifications sur 
 * Cela permet d’avoir un téléphone qui ne tombera pas à cours de batterie comme pourrait l’être un smartphone personnel.
 * Cela permet de bien séparer les choses, ne pas l’avoir sur soi quand on n’est pas d’astreinte et conserver un bon rapport entre vie professionnelle et vie personnelle.
 
-Afin d’avoir un numéro unique nous utilisons [Twilio]([https://www.twilio.com/).  Ce service nous a permis d’acheter chez eux un numéro de téléphone. Nous redirigeons ensuite ce numéro de téléphone vers la personne d’astreinte en ayant configuré [ce script](https://gist.github.com/agallou/16e8967fd67f7213f7997725fbff0164) en calback dans l’administration de Twilio.
+Afin d’avoir un numéro unique nous utilisons [Twilio]([https://www.twilio.com/).  Ce service nous a permis d’acheter chez eux un numéro de téléphone. Nous redirigeons ensuite ce numéro de téléphone vers la personne d’astreinte en ayant configuré [ce script](https://gist.github.com/agallou/16e8967fd67f7213f7997725fbff0164) en callback dans l’administration de Twilio.
 
 Ce script va lire le Google Spreadsheet, et rechercher pour la date du jour qui est la personne d’astreinte, et renvoyer le numéro de cette personne à Twilio. Twilio va ensuite transférer les appels et SMS vers ce numéro.
 
